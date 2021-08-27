@@ -1,0 +1,23 @@
+Inputs/x/Independent Variables:
+
+x1 Hours of studying: 7
+x2 Understanding: 9
+x3 Weather: 0
+x4 Breakfast: 1
+x5 Paper completion time: 5
+x6 Seriousness: 6
+x7 Sheets: 8
+
+
+7x1 + 9x2 + 0x3 + x4 + 5x5 + 6x6 + 8x7 = y
+
+
+Output/y/Dependent Variable:
+y
+
+
+
+
+
+
+
