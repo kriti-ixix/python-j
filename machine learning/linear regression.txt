@@ -14,10 +14,3 @@ x7 Sheets: 8
 
 Output/y/Dependent Variable:
 y
-
-
-
-
-
-
-
