@@ -11,7 +11,7 @@ loadedModel = pickle.load(open('KNN Model.pkl', 'rb'))
 #Routes
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('diabetes.html')
 
 
 @app.route('/prediction', methods=['POST'])
@@ -27,7 +27,7 @@ def prediction():
     else:
         prediction = "Diabetic"
 
-    return render_template('home.html', output=prediction)
+    return render_template('diabetes.html', output=prediction)
 
 #Main function
 if __name__ == '__main__':
